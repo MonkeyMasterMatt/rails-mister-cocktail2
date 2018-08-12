@@ -1,0 +1,10 @@
+.ingredients-list-item {
+  padding: 6px 10px;
+  font-size: 16px;
+}
+
+
+.ingredients-list-item:nth-child(odd) {
+  background-color: #f1f7f7;
+
+}
